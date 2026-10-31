@@ -1,0 +1,17 @@
+{
+  "name": "portofolio-nabilah",
+  "version": "1.0.0",
+  "description": "Portofolio Nabilah Avilia Indriyawati - S1 Sistem Informasi Universitas Siliwangi",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "npx serve ."
+  },
+  "keywords": [
+    "portfolio",
+    "sistem-informasi",
+    "nabilah-avilia"
+  ],
+  "author": "Nabilah Avilia",
+  "license": "MIT"
+}
